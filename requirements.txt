@@ -1,0 +1,19 @@
+# Core LLM & tooling
+langchain
+langchain-community
+langgraph
+langchain-openai
+
+# Data & plotting
+pandas
+matplotlib
+plotly
+
+# Database
+SQLAlchemy
+
+# Typing helpers
+typing-extensions
+
+# Frontend
+chainlit
